@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetClassesAdvans1App", "NetClassesAdvans1App\NetClassesAdvans1App.csproj", "{C370F9BE-8555-4FF1-B345-552775B240BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C370F9BE-8555-4FF1-B345-552775B240BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C370F9BE-8555-4FF1-B345-552775B240BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C370F9BE-8555-4FF1-B345-552775B240BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C370F9BE-8555-4FF1-B345-552775B240BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8AC7D11-B9CC-4809-A077-E7C5B9DC288F}
+	EndGlobalSection
+EndGlobal
