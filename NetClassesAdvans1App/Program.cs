@@ -59,6 +59,8 @@ namespace NetClassesAdvans1App
 
             Circle circle = new() { Radius = 5 };
             double x = Circle.Pi;
+
+            Currency usd = new(50.34m);
         }
 
         // overloading methods
